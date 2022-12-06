@@ -5,3 +5,7 @@ We will need a number of people:
 * A statistician
 * A UI expert
 
+Skills needed:
+* Python
+* Statistics
+* Linear Algebra
